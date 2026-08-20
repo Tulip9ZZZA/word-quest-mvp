@@ -8,4 +8,4 @@
 - [x] Connect Field Test and Card Stack outcomes to the per-word performance model.
 - [x] Update open-source documentation, attribution, and limitations.
 - [x] Validate desktop/mobile UX, calculations, accessibility, and production build.
-- [ ] Commit the completed changes, make the GitHub repository public, and push under the user’s account.
+- [x] Commit the completed changes, make the GitHub repository public, and push under the user’s account.
